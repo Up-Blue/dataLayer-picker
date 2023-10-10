@@ -1,5 +1,5 @@
 homepage: "https://www.upblue.pl/"
 documentation: "https://www.upblue.pl/"
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
+  - sha: 698b5f1574d973a0007aa0f3dac034be82b3645d
     changeNotes: Initial release.
