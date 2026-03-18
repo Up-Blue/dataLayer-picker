@@ -1,6 +1,8 @@
 homepage: "https://www.upblue.pl/"
 documentation: "https://www.upblue.pl/"
 versions:
+  - sha: 935b7f20ef8bef1d4e68bfe334028895cf66862c
+    changeNotes: "v2: Fully automated ecommerce data extraction."
   - sha: a06d8569f403df4a090625b893c1f62c6b782fc2
     changeNotes: Changed LICENSE
   - sha: 0bbf1339ae59742ca1a9d21f88663dd88be1e9f9
