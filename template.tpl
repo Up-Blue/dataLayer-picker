@@ -14,7 +14,11 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "dataLayer Picker | Up Blue",
-  "description": "Pobiera wskazane dane z obiektu ecommerce. Stworzono przez Up Blue (upblue.pl).",
+  "categories": [
+    "ANALYTICS",
+    "UTILITY"
+  ],
+  "description": "Extracts and transforms ecommerce data from the dataLayer into GA4-compatible format. Zero configuration needed. Built by Up Blue (upblue.pl).",
   "containerContexts": [
     "WEB"
   ]
