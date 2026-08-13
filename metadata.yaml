@@ -1,6 +1,8 @@
 homepage: "https://www.upblue.pl/"
 documentation: "https://github.com/Up-Blue/dataLayer-picker#readme"
 versions:
+  - sha: e487e8140e1b0795ba41225c00fc6f2219bb58c9
+    changeNotes: Unmodified Apache 2.0 license.
   - sha: 7280d4a20fb015e42942f3f7c1e3b68ba10ea864
     changeNotes: Add categories and English description for GTM Gallery.
   - sha: 935b7f20ef8bef1d4e68bfe334028895cf66862c
